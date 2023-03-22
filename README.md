@@ -5,6 +5,7 @@
     <img align="right" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=lreiz&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="lreiz" />
   </a>
 
+  <!-- reference https://github.com/zumrudu-anka/zumrudu-anka/blob/master/README.md -->
 
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lreiz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> -->
